@@ -1,3 +1,5 @@
+This is the open data frontend fork. Future changes will probably be necessary.
+
 # Data Catalog App
 
 The React frontend is built with [Vite](https://vitejs.dev/).
