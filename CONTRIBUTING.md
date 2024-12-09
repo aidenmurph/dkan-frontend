@@ -10,3 +10,4 @@ TODO create issue template
 
 * Paul Simko
 * Reina Takahara
+* Phoenix Angulo
