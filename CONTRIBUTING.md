@@ -9,3 +9,4 @@ TODO create issue template
 ## Current contributors
 
 * Paul Simko
+* Reina Takahara
